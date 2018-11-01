@@ -1,3 +1,2 @@
-.ipnyb_checkpoints/
-
-*.csv
+*/.ipnyb_checkpoints/
+*/*.csv
