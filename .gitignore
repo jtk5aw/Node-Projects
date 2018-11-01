@@ -1,3 +1,6 @@
-*/.ipynb_checkpoints/
-*/*.csv
-*/*.log
+.ipynb_checkpoints/
+*.csv
+*.log
+*.docx
+*/_jacksonkennedy__20180910/
+*/snapchatData
